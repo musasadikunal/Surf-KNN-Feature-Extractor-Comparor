@@ -1,0 +1,3 @@
+C:\Users\Musa\source\repos\surf_emgu3\surf_emgu3\bin\Debug\resimler\makas.jpg
+C:\Users\Musa\source\repos\surf_emgu3\surf_emgu3\bin\Debug\resimler\pet.png
+C:\Users\Musa\source\repos\surf_emgu3\surf_emgu3\bin\Debug\resimler\semsiye.jpg
